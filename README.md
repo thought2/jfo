@@ -22,7 +22,7 @@ structure.json
   "dir1": {
     "subdir1": {
       "file1.txt": "Hello from file one!",
-      "file2.txt": "Hello from frie two!"
+      "file2.txt": "Hello from file two!"
     },
     "subdir2": {}
   },
